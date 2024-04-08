@@ -26,6 +26,37 @@ A Classe HSBColor disponibiliza métodos para trabalhar com conversões de cores
 
 No programa "FaceHumana", utilizamos a Harmonia Triádica para compor as cores de uma peça gráfica 2D de um rosto humano. Para alterar as cores da composição, você pode modificar o parâmetro "hue". Isso fará com que os valores de Matiz das cores se alterem conforme a harmonia triádica.
 
+![Captura de tela 2024-04-08 105744](https://github.com/GuilhermeAlvesTeixeira/FaceHumana/assets/117122019/07e19c64-9168-4803-ae06-16f98d4d2e1a)
+
+### Valores Recomendados
+<table>
+<tr>
+  <td> hue = 0</td>
+  <td> Vermelho</td>
+</tr>
+<tr>
+  <td> hue = 60</td>
+  <td> Amarelo</td>
+</tr>
+<tr>
+  <td> hue = 120</td>
+  <td> Verde</td>
+</tr>
+<tr>
+  <td> hue = 180</td>
+  <td> Ciano</td>
+</tr>
+<tr>
+  <td> hue = 240</td>
+  <td> Azul</td>
+</tr>
+<tr>
+  <td> hue = 300</td>
+  <td> Magenta</td>
+</tr>
+  
+  
+</table>
 
 
 
