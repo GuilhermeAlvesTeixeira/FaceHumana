@@ -80,6 +80,10 @@ Obs: Você só pode usar os valores 0, 1 e 2. Qualquer outro valor informado pod
 </tr>  
 </table>
 
+## Resultados
+
+
+
 
 
 
