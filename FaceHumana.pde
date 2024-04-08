@@ -13,10 +13,18 @@
   4) Divirta-se! Brinque com os parâmetros "hue", "hueTriadic1", "hueTriadic2" e "hueTriadic3"
   
   *********************************************************************************************
+                              Sobre a Imagem Original
+            
+  fonte da imagem original: <https://tinyurl.com/mvwe56na>
+  autor da imagem original: dzima1
   
-  fonte da imagem: <https://tinyurl.com/mvwe56na>
+  portifolio dzima1: <https://www.istockphoto.com/br/portfolio/dzima1?mediatype=illustration>
+
+  *********************************************************************************************
   
   @Author Guilherme Alves
+  
+  Meu GitHub: <https://github.com/GuilhermeAlvesTeixeira>
  **/
 
 
