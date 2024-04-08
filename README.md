@@ -54,9 +54,35 @@ No programa "FaceHumana", utilizamos a Harmonia Triádica para compor as cores d
   <td> hue = 300</td>
   <td> Magenta</td>
 </tr>
-  
-  
+</table><br>
+
+Você também pode "girar" o círculo triádico modificando os parâmetros: "hueTriadic1", "hueTriadic2" e "hueTriadic3".<br>
+
+![Captura de tela 2024-04-08 105835](https://github.com/GuilhermeAlvesTeixeira/FaceHumana/assets/117122019/d95f1bc6-acbf-4b43-9a72-256f105eb045)<br>
+
+Obs: Você só pode usar os valores 0, 1 e 2. Qualquer outro valor informado pode resultar em um "java.lang.ArrayIndexOutOfBoundsException" que é uma exceção no Java que ocorre quando você informa um valor que não pertence a um Array.<br>
+
+<table>
+<tr>
+  <td>Valor</td>
+  <td>0</td>
+  <td>Deixa o círculo HSB estático</td>
+</tr>
+<tr>
+  <td>Valor</td>
+  <td>1</td>
+  <td>Gira o círculo HSB em 120 graus</td>
+</tr>
+<tr>
+  <td>Valor</td>
+  <td>2</td>
+  <td>Gira o círculo HSB em 240 graus</td>
+</tr>  
 </table>
+
+
+
+
 
 
 
