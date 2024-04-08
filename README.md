@@ -22,7 +22,11 @@ Para usar a FaceHumana você deve seguir os seguintes passos:
 
 ## Como usar a Classe HSBColor em FaceHumana?
 
-A Classe HSBColor disponibiliza métodos para trabalhar com conversões de cores para as harmonias: <strong>Complementar e Triádica</strong> no modelo cromático <strong>HSB (Hue Saturation Brightness)</strong>.<br>
+A Classe HSBColor disponibiliza métodos para trabalhar com conversões de cores para as harmonias: <strong>Complementar e Triádica</strong> no modelo cromático <strong>HSB (Hue Saturation Brightness)</strong>.<br><br>
 
-No programa FaceHumana, utilizamos a Harmonia Triádica para compor as cores de uma peça gráfica 2D de um rosto humano.
+No programa "FaceHumana", utilizamos a Harmonia Triádica para compor as cores de uma peça gráfica 2D de um rosto humano. Para alterar as cores da composição, você pode modificar o parâmetro "hue". Isso fará com que os valores de Matiz das cores se alterem conforme a harmonia triádica.
+
+
+
+
 
