@@ -84,7 +84,7 @@ Obs: Você só pode usar os valores 0, 1 e 2. Qualquer outro valor informado pod
 
 ![FaceHumanaGif](https://github.com/GuilhermeAlvesTeixeira/FaceHumana/assets/117122019/7e2dde24-619c-4a2c-953e-035be56c967d)
 
-O progama pode produzir 360 possibilidades diferentes de imagens alterando <strong> SOMENTE </strong> o parâmetro "hue".
+O programa pode produzir 360 possibilidades diferentes de imagens alterando <strong> SOMENTE </strong> o parâmetro "hue".
 
 
 
